@@ -1,23 +1,89 @@
-# Getting Started with Create React App
+<!-- Banner Image, Landing Page Of Computer Vision Site -->
+<div align="center">
+  <br />
+    <a href="">
+      <img src="https://firebasestorage.googleapis.com/v0/b/karizmatik-14de4.appspot.com/o/KeeperNotesBanner.png?alt=media&token=0044ad34-8315-4bfe-9c6d-a61d403a7073" alt="Project Banner">
+    
+  <br />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <div>
+    <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    
+  </div>
 
-## Available Scripts
+  <h1 align="center">Keeper App</h1>
 
-In the project directory, you can run:
+   <div align="center">
+     <h4>A simple Note Taking App without DB</h4>
+    </div>
+</div>
 
-### `npm start`
+## 📋 <a name="table">Table of Contents</a>
+
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+5. 🕸️ [Snippets](#snippets)
+6. 🔗 [Links](#links)
+7. ⚙️ [Hardware Output](#hardwareoutput)
+
+## 🚨 About
+
+NotesApp is a simple and intuitive note-taking application built with React. It allows users to quickly jot down notes, organize them, and access them easily. The app is designed with a clean and minimalistic user interface to enhance productivity and streamline the note-taking process.
+
+## <a name="introduction">🤖 Introduction</a>
+
+...
+
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+- React
+
+## <a name="features">🔋 Features</a>
+
+👉 **Home Screen**: A Single page App
+
+<img src="https://firebasestorage.googleapis.com/v0/b/karizmatik-14de4.appspot.com/o/KeeperNotesBanner.png?alt=media&token=0044ad34-8315-4bfe-9c6d-a61d403a7073" alt="Home">
+
+## <a name="quick-start">🤸 Quick Start</a>
+
+Follow these steps to set up the project locally on your machine.
+
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/vroymv/Keeper-Notes.git
+cd keeper-app
+```
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
+
+```bash
+npm start
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -29,42 +95,10 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## <a name="snippets">🕸️ Snippets</a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+...
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## <a name="more">🚀 More</a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+...
