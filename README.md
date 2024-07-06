@@ -14,7 +14,7 @@
   <h1 align="center">Keeper App</h1>
 
    <div align="center">
-     <h4>A simple Note Taking App without DB</h4>
+     <h4>A simple Note Taking web App without DB</h4>
     </div>
 </div>
 
